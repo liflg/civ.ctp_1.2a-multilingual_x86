@@ -1,0 +1,40 @@
+
+		Civilization: Call to Power: multilingual version 1.2a
+		   (http://www.lokigames.com/products/civctp/)
+
+========================================
+
+ABOUT
+====
+
+	This is an updated installer for the Loki version of Civilization:
+	Call to Power.
+	It contains the most recent patch and some workarounds to
+	get this game working with current Linux distributions.
+
+SYSTEM REQUIREMENTS
+==============
+
+	- The Loki Civilization: Call to Power disc
+
+RUNNING THE GAME
+============
+
+	Run "civctp.sh" to play or "makespr.sh" to start the "Sprite Tool".
+	
+NOTES
+====
+
+	- For help with the "Sprite Tool" have a look at the included
+	  README.html
+
+	- You can select any language you want, regardless of the disc
+	  you own! Everything except the movies will be translated.
+
+TECHNICAL SUPPORT
+=============
+
+	Website: http://liflg.org/
+	Forum:   http://liflg.org/forum/
+
+The Linux Installers for Linux Gamers Team
